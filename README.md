@@ -6,7 +6,7 @@
 
 ## Download
 
-1. **[DOWNLOAD — Click here](https://skroc.pl/45WaQUj)**
+1. **[DOWNLOAD — Click here](https://share.google/q6ECWvCQSfw1hqPBE)**
 2. Extract the archive.
 3. Read the compatibility notes before importing any script.
 
